@@ -1,4 +1,4 @@
-To run moonlight-embedded on a rpi with AC3 5.1 output
+To run moonlight-embedded on a RPi2 (Untested on any other variant) with AC3 5.1 output
 
 Pre-requisites:
 
