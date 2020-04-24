@@ -3,7 +3,7 @@ To run moonlight-embedded on a rpi with AC3 5.1 output
 Pre-requisites:
 
 * moonlight-embedded (https://github.com/irtimmer/moonlight-embedded)
-* libasound2-plugins (`sudo apt-get install libasound2-plugins`) - Confirm it is installed with `/usr/lib/arm-linux-gnueabihf/alsa-lib/libasound_module_pcm_a52.so`
+* libasound2-plugins (`sudo apt-get install libasound2-plugins`) - Confirm it is installed by checking that `/usr/lib/arm-linux-gnueabihf/alsa-lib/libasound_module_pcm_a52.so` exists
 
 --------------------------------------------------------
 
